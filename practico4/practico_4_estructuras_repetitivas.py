@@ -5,8 +5,8 @@ Práctico 4: Estructuras repetitivas
 Este programa contiene la resolución de todos los ejercicios del práctico 4
 utilizando estructuras de control repetitivas (FOR, WHILE).
 
-Autor: Asistente IA
-Fecha: 2024
+Autor: Mariano Mocho
+
 """
 
 import random
